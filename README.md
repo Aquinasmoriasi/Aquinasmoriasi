@@ -1,5 +1,5 @@
 # Hi there 👋
-![image](https://user-images.githubusercontent.com/104029494/179373066-a552e231-3b80-4da9-9b76-4a524d94b615.png)
+![image](https://user-images.githubusercontent.com/104029494/179373522-c77b7e2c-2435-4ba5-9b72-dfb1ad187d59.png)
 <!--
 **Aquinasmoriasi/Aquinasmoriasi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
