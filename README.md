@@ -1,7 +1,9 @@
-### Hi there 👋
-
+# Hi there 👋
+![image](https://user-images.githubusercontent.com/104029494/179373066-a552e231-3b80-4da9-9b76-4a524d94b615.png)
 <!--
 **Aquinasmoriasi/Aquinasmoriasi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
 
 Here are some ideas to get you started:
 
