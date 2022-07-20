@@ -2,6 +2,8 @@
 ![image](https://user-images.githubusercontent.com/104029494/179904204-7fa622d4-af5b-46c9-bed4-a1b0a4c4070c.png)
 
  💬 Ask me about the awesome projects that you want built, and all  things tech. 😃
+ 
+ 🌱 I’m currently a student at Microverse getting more skills in JavaScript, React, Ruby among many other exciting technologies.
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
@@ -26,6 +28,8 @@
   [![top-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aquinasmoriasi&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
   
 ⚡ Fun fact: You miss 100% of the chances you don't take. Also, simplicity is the ultimate form of sophistication.
+
+ 📫 You can reach me through my email address [aquinasmoriasi@gmail.com]().
 <!--
 **Aquinasmoriasi/Aquinasmoriasi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
