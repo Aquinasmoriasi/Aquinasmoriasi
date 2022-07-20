@@ -1,5 +1,5 @@
 # Hi there 👋
-![image](https://user-images.githubusercontent.com/104029494/179901419-c5d1edf6-27bb-4bed-b664-4f9f003b2480.png)
+![image](https://user-images.githubusercontent.com/104029494/179904204-7fa622d4-af5b-46c9-bed4-a1b0a4c4070c.png)
 
  💬 Ask me about the awesome projects that you want built, and all  things tech. 😃
 
