@@ -29,7 +29,7 @@
   
 ⚡ Fun fact: You miss 100% of the chances you don't take. Also, simplicity is the ultimate form of sophistication.
 
- 📫 You can reach me through my email address [aquinasmoriasi@gmail.com]().
+ 📫 You can reach me at my email address, [aquinasmoriasi@gmail.com]() or through my LinkedIn Profile at [Aquinas Moriasi](https://www.linkedin.com/in/aquinas-moriasi).
 <!--
 **Aquinasmoriasi/Aquinasmoriasi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
