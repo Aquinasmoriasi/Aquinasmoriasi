@@ -1,9 +1,8 @@
 # Hi there 👋
-![image](https://user-images.githubusercontent.com/104029494/179373522-c77b7e2c-2435-4ba5-9b72-dfb1ad187d59.png)
+![image](https://user-images.githubusercontent.com/104029494/179901419-c5d1edf6-27bb-4bed-b664-4f9f003b2480.png)
 
+ 💬 Ask me about the awesome projects that you want built
 
-
-⚡ Fun fact: You miss 100% o fthe chances you don't take. Also, simplicity is the ultimate form of sophistication.
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -26,7 +25,8 @@
   
   # Most Used Languages
   [![top-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aquinasmoriasi&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
+  
+⚡ Fun fact: You miss 100% of the chances you don't take. Also, simplicity is the ultimate form of sophistication.
 <!--
 **Aquinasmoriasi/Aquinasmoriasi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
