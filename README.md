@@ -1,7 +1,7 @@
 # Hi there 👋
 ![image](https://user-images.githubusercontent.com/104029494/179901419-c5d1edf6-27bb-4bed-b664-4f9f003b2480.png)
 
- 💬 Ask me about the awesome projects that you want built
+ 💬 Ask me about the awesome projects that you want built, and all  things tech. 😃
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
@@ -17,7 +17,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="figma" **alt="figma" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="Github" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="npm" **alt="npm" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   </div>
   
   # Git hub Stats
