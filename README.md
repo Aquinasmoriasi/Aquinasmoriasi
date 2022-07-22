@@ -3,7 +3,7 @@
 
  💬 Ask me about the awesome projects that you want to be built, and all things tech. 😃
  
- 🌱 I’m currently a student at Microverse getting more skills in JavaScript, React, and Ruby among many other exciting technologies.
+ 🌱 I’m currently a student at Microverse getting more skills in JavaScript, React and Ruby among many other exciting technologies.
 
 # :hammer_and_wrench: Languages and Tools
 
