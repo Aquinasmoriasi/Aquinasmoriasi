@@ -1,11 +1,12 @@
 # Hi there 👋
 ![image](https://user-images.githubusercontent.com/104029494/179904204-7fa622d4-af5b-46c9-bed4-a1b0a4c4070c.png)
 
- 💬 Ask me about the awesome projects that you want built, and all  things tech. 😃
+ 💬 Ask me about the awesome projects that you want to be built, and all things tech. 😃
  
- 🌱 I’m currently a student at Microverse getting more skills in JavaScript, React, Ruby among many other exciting technologies.
+ 🌱 I’m currently a student at Microverse getting more skills in JavaScript, React, and Ruby among many other exciting technologies.
 
-### :hammer_and_wrench: Languages and Tools :
+# :hammer_and_wrench: Languages and Tools
+
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
