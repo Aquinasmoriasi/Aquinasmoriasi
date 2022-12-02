@@ -28,6 +28,8 @@
   # Most Used Languages
   [![top-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aquinasmoriasi&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
   
+  https://www.codewars.com/users/Aquinasmoriasi/badges/large
+  
 ⚡ Fun fact: You miss 100% of the chances you don't take. Also, simplicity is the ultimate form of sophistication.
 
  📫 You can reach me at my email address, [aquinasmoriasi@gmail.com]() or through my LinkedIn Profile at [Aquinas Moriasi](https://www.linkedin.com/in/aquinas-moriasi).
