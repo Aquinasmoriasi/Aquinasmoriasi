@@ -2,7 +2,6 @@
 ![image](https://user-images.githubusercontent.com/104029494/179904204-7fa622d4-af5b-46c9-bed4-a1b0a4c4070c.png)
 
  - 💬 Ask me about the awesome projects that you want to be built, and everything related to tech.
- - 🌱 I’m currently a student at Microverse, a remote software development school, getting more skills in JavaScript, React, Ruby, and Ruby on Rails among many other exciting technologies.
  - 🔭 I’m currently working on freelance projects.
  - 🎯 My professional objective is to develop into an excellent software developer by continuously enhancing my skills and expertise. 
  - 👯 I’m looking to collaborate on projects and contribute to open-source.
