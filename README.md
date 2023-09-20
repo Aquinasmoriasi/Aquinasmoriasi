@@ -2,9 +2,9 @@
 ![image](https://user-images.githubusercontent.com/104029494/179904204-7fa622d4-af5b-46c9-bed4-a1b0a4c4070c.png)
 
  - 💬 Ask me about the awesome projects that you want to be built, and everything related to tech.
- - 🔭 I’m currently working on freelance projects.
+ - 🔭 I’m currently working on mobile app development.
  - 🎯 My professional objective is to develop into an excellent software developer by continuously enhancing my skills and expertise. 
- - 👯 I’m looking to collaborate on projects and contribute to open-source.
+ - 👯 I’m looking to collaborate on projects, tackle new challenges and contribute to open-source.
  - ⚡ Fun fact: You miss 100% of the chances you don't take. Also, simplicity is the ultimate form of sophistication.
  - 📫 You can reach me at my email address, [aquinasmoriasi@gmail.com](mailto:aquinasmoriasi@gmail.com) or through my LinkedIn profile at [Aquinas Moriasi](https://www.linkedin.com/in/aquinas-moriasi).
 
